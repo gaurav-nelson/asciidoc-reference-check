@@ -1,7 +1,7 @@
 {
   "name": "asciidoc-reference-check",
   "main": "./lib/asciidoc-reference-check.js",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Check if all the references in the current document are valid.",
   "activationEvents": [
     "asciidoc-reference-check:checkReference"
@@ -11,12 +11,12 @@
   "repository": "https://github.com/gaurav-nelson/asciidoc-reference-check",
   "license": "MIT",
   "keywords": [
-        "asciidoc",
-        "reference",
-        "check",
-        "link",
-        "linkcheck"
-    ],
+    "asciidoc",
+    "reference",
+    "check",
+    "link",
+    "linkcheck"
+  ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
