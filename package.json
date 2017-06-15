@@ -1,7 +1,7 @@
 {
   "name": "asciidoc-reference-check",
   "main": "./lib/asciidoc-reference-check.js",
-  "version": "1.0.1",
+  "version": "0.0.0",
   "description": "Check if all the references in the current document are valid.",
   "activationEvents": [
     "asciidoc-reference-check:checkReference"
