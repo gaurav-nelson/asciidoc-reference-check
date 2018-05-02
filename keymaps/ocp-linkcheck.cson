@@ -1,2 +1,2 @@
 'atom-workspace':
-  'ctrl-alt-l': 'asciidoc-reference-check:checkLinks'
+  'ctrl-alt-l': 'asciidoc-reference-check:checkReferenceFromEditor'
