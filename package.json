@@ -6,7 +6,7 @@
   "activationEvents": [
     "asciidoc-reference-check:checkReference"
   ],
-  "author": "Gaurav Nelson",
+  "author": "Gaurav Nelson & Julien Pfefferkorn",
   "bugs": "https://github.com/gaurav-nelson/asciidoc-reference-check/issues",
   "repository": "https://github.com/gaurav-nelson/asciidoc-reference-check",
   "license": "MIT",

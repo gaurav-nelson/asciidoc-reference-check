@@ -5,4 +5,16 @@
       "label": "Check References"
       "command": "asciidoc-reference-check:checkReferenceFromEditor"
     }
+  ],
+  ".tree-view .file .name[data-name$=\\.adoc]": [
+    {
+      "label": "Check References"
+      "command": "asciidoc-reference-check:checkReferenceFromTreeViewFile"
+    }
+  ],
+  ".tree-view .directory .header .name": [
+    {
+      "label": "Check References"
+      "command": "asciidoc-reference-check:checkReferenceFromTreeViewFolder"
+    }
   ]
