@@ -1,3 +1,7 @@
+[![apm](https://img.shields.io/apm/l/asciidoc-reference-check.svg?style=flat-square)](https://atom.io/packages/asciidoc-reference-check)
+[![apm](https://img.shields.io/apm/v/asciidoc-reference-check.svg?style=flat-square)](https://atom.io/packages/asciidoc-reference-check)
+[![apm](https://img.shields.io/apm/dm/asciidoc-reference-check.svg?style=flat-square)](https://atom.io/packages/asciidoc-reference-check)
+
 # asciidoc-reference-check
 Check if the internal and external references in asciidoc files are valid.
 
